@@ -6,7 +6,7 @@ from queue import Queue
 import threading
 
 HEADER = 50
-HOST = '192.168.43.88'
+HOST = '127.0.0.1'
 PORT = 5764
 q = Queue()
 connections = []
