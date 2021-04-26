@@ -10,11 +10,11 @@ This is the hard part of this. it is left to you, you can either gain physical a
 
 ## Commands
 - list => list all connected devices
-- select => select a connected device from it's id
+- select => select a connected device from it's id by
 - download => download a file to the server from the remote system give the path.
 - send => send a file from the server to the client system.
 - quit => exit from a client session
 
 
 
-> PS: This was made for educational and it support intentions only. I do not support any type of crimnal behaviours and will not support it in any ways. 
+> PS: This was made for educational and it support intentions only. I do not support any type of crimnal behaviours. 
