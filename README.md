@@ -17,4 +17,4 @@ This is the hard part of this. it is left to you, you can either gain physical a
 
 
 
-> PS: This was made for educational and it support intentions only. I do not support any type of crimnal behaviours. 
+> PS: This was made for educational purposes and in no ways do I support the usage of this for any Illegal or criminal usage. 
